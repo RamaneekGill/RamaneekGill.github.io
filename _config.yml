@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Ramaneek Gill"
+  avatar           : "assets/headshot.png"
+  bio              : "Machine Learning Data Scientist at Manulife's Lab of Forward Thinking."
+  location         : "Toronto, Canada"
+  email            : "ramaneek.gill@hotmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/RamaneekGill"
   google_plus      :
   keybase          :
   instagram        :
